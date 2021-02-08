@@ -119,6 +119,7 @@ function multiplicarArgumentos() {
   // Si no se pasan argumentos devuelve 0. Si se pasa un argumento, simplemente devuélvelo
   // Escribe tu código aquí:
 
+  
   //si no se pasan argumentos:
   if(arguments.length < 1) return 0;
   else if(arguments.length === 1) return arguments[0];

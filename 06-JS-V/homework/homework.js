@@ -6,8 +6,7 @@ function crearUsuario() {
   // En el `contructor`, define el usuario, el nombre, el email y la contraseña
   // El `contructor` debe tener un método llamado "saludar" en su `prototype` que devuelva una string 'Hola, mi nombre es {{nombre}}'
   // {{nombre}} debe ser el nombre definido en cada instancia
-  // Devuelve la clase
-  // Tu código:
+  // Devuelve la clase. Tu código:
 
   /* Solución con constructor 
   function Usuario(opciones){
